@@ -1,6 +1,6 @@
 # breakblocks
-On ths repository is Break Blocks game using Processing.
+On this repository, Workshop for Break Blocks game using Processing.
 
-## how to add processing edit on mac?
-* Using Homebrew `brew cask install processing`
+## How to add Processing IDE(Processing Development Environment (PDE)) on MAC?
+* Use Homebrew `brew cask install processing`
 * or Download directly from https://processing.org/download/ , and install it.
